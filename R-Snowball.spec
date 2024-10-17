@@ -7,7 +7,7 @@ Release:          1
 Summary:          Snowball Stemmers
 Group:            Sciences/Mathematics
 License:          BSD_2_clause + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.0-10.tar.gz
 
 
